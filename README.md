@@ -5,7 +5,7 @@
   <strong>4th year at the Faculty of Electronic Engineering, University of Niš</strong>
 </p>
 
-👦🏻 About Me
+## 👦🏻 About Me
 
 I am currently a final-year Computer Science student with a strong passion for developing software solutions and exploring new technologies.  
 Constantly seeking opportunities to improve my skills and broaden my knowledge in various programming languages and tools.
