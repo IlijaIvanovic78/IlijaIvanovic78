@@ -7,7 +7,7 @@
 
 ---
 
-## 👦🏻💻 About Me
+## 👦🏻 About Me
 
 I am currently a final-year Computer Science student with a strong passion for developing software solutions and exploring new technologies.  
 Constantly seeking opportunities to improve my skills and broaden my knowledge in various programming languages and tools.
@@ -44,5 +44,6 @@ Constantly seeking opportunities to improve my skills and broaden my knowledge i
 ## 🔗 Contact:
 
 - 📧 Email: [ilijaivanovic000@gmail.com](mailto:ilijaivanovic000@gmail.com)  
-- 💼 LinkedIn: [Ilija Ivanovic](https://www.linkedin.com/in/ilija-ivanovic-861806276/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilija-ivanovic-861806276/)
+
 
