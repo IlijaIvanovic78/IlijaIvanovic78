@@ -31,8 +31,6 @@ Constantly seeking opportunities to improve my skills and broaden my knowledge i
   <img src="https://github-readme-stats.vercel.app/api?username=ilijaivanovic&show_icons=true&theme=dark" alt="Ilija's GitHub Stats"/>
 </p>
 
----
-
 ## 🔗 Contact:
 
 - 📧 Email: [ilijaivanovic000@gmail.com](mailto:ilijaivanovic000@gmail.com)  
