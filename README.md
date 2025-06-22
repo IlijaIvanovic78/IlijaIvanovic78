@@ -43,5 +43,6 @@ Constantly seeking opportunities to improve my skills and broaden my knowledge i
 
 ## 🔗 Contact:
 
-- 📧 Email: [ilijaivanovic000@gmail.com](mailto:ilijaivanovic000@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/ilija-ivanovic-861806276/(#)
+- 📧 Email: [ilijaivanovic000@gmail.com](mailto:ilijaivanovic000@gmail.com)  
+- 💼 LinkedIn: [Ilija Ivanovic](https://www.linkedin.com/in/ilija-ivanovic-861806276/)
+
