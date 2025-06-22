@@ -7,8 +7,7 @@
 
 ## 👦🏻 About Me
 
-I am currently a final-year Computer Science student with a strong passion for developing software solutions and exploring new technologies.  
-Constantly seeking opportunities to improve my skills and broaden my knowledge in various programming languages and tools.
+I am currently a final-year Computer Science student with a strong passion for developing software solutions and exploring new technologies. Constantly seeking opportunities to improve my skills and broaden my knowledge in various programming languages and tools.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border-radius:50%; margin: 0 32px;"/>
