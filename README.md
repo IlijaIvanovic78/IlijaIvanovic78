@@ -5,8 +5,6 @@
   <strong>4th year at the Faculty of Electronic Engineering, University of Niš</strong>
 </p>
 
----
-
 ## 👦🏻 About Me
 
 I am currently a final-year Computer Science student with a strong passion for developing software solutions and exploring new technologies.  
@@ -26,8 +24,6 @@ Constantly seeking opportunities to improve my skills and broaden my knowledge i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="border-radius:50%; margin: 0 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border-radius:50%; margin: 0 8px;"/>
 </p>
-
----
 
 ## 📈 GitHub Stats:
 
