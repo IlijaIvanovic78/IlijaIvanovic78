@@ -1,20 +1,20 @@
-<h1 align="center">👋 Zdravo, ja sam Ilija Ivanović</h1>
+<h1 align="center">👋 Hello, I'm Ilija Ivanović</h1>
 
 <p align="center">
-  🎓 Student | 💻 Software Developer | 🚀 Budući inženjer softvera <br>
-  <strong>4. godina Elektronskog fakulteta u Nišu</strong>
+  🎓 Computer Science Student & 💻 Software Developer <br>
+  <strong>4th year at the Faculty of Electronic Engineering, University of Niš</strong>
 </p>
 
 ---
 
-## 🧑‍💻 O meni
+## 🧑‍💻 About Me
 
-Zdravo! Ja sam Ilija, student softverskog inženjerstva sa strašću za razvojem softverskih rešenja i učenjem novih tehnologija.  
-Trenutno završavam studije na Elektronskom fakultetu u Nišu, gde usavršavam svoje veštine u raznim programskim jezicima i alatima.
+I am currently a final-year Computer Science student with a strong passion for developing software solutions and exploring new technologies.  
+Constantly seeking opportunities to improve my skills and broaden my knowledge in various programming languages and tools.
 
 ---
 
-## 💡 Tehnologije i alati koje koristim:
+## 💡 Technologies & Tools I Use:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -33,19 +33,15 @@ Trenutno završavam studije na Elektronskom fakultetu u Nišu, gde usavršavam s
 
 ---
 
-## 📈 GitHub statistika:
+## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilijaivanovic&show_icons=true&theme=radical" alt="Ilija's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilijaivanovic&show_icons=true&theme=radical" alt="Ilija's GitHub Stats"/>
 </p>
 
 ---
 
-## 🔗 Linkovi:
+## 🔗 Contact:
 
 - 📧 Email: [ilijaivanovic000@gmail.com](mailto:ilijaivanovic000@gmail.com)
-- 💼 LinkedIn: [Ovde dodaj svoj LinkedIn link](#)
-
----
-
-<p align="center">Hvala što ste pogledali moj profil! 🌟</p>
+- 💼 LinkedIn: [Add your LinkedIn profile link here](#)
