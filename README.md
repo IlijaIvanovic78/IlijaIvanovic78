@@ -27,7 +27,7 @@ I am currently a final-year Computer Science student with a strong passion for d
 ## 📊 Github Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ilijaivanovic&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ilijaivanovic&theme=github-light&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ## 🔗 Contact:
