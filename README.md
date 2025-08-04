@@ -24,12 +24,6 @@ I am currently a final-year Computer Science student with a strong passion for d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border-radius:50%; margin: 0 8px;"/>
 </p>
 
-## 📊 Github Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ilijaivanovic&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 🔗 Contact:
 
 - 📧 Email: [ilijaivanovic000@gmail.com](mailto:ilijaivanovic000@gmail.com)  
