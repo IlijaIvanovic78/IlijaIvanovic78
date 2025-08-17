@@ -22,7 +22,9 @@ I am currently a final-year Computer Science student with a strong passion for d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="border-radius:50%; margin: 0 32px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="border-radius:50%; margin: 0 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border-radius:50%; margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="border-radius:50%; margin: 0 32px;"/>
 </p>
+
 
 ## 🔗 Contact:
 
