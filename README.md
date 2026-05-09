@@ -12,10 +12,10 @@ I am a software engineer and final-year Computer Science student passionate abou
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,angular,nestjs,postgres,mongodb,typescript,javascript,docker,git,cpp,cs,dotnet,mysql,java&perline=16" />
 </a>
 
-<table><tr>
-<td><img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="48" height="48"/></td>
-<td><img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/></td>
+<table border="0" style="border:none; border-collapse:collapse;"><tr style="border:none;">
+<td style="border:none; padding:0;"><img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="48" height="48"/></td>
+<td style="border:none; padding:0;"><img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" width="48" height="48"/></td>
+<td style="border:none; padding:0;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/></td>
 </tr></table>
 
 ## 🔗 Contact
