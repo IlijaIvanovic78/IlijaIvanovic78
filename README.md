@@ -12,7 +12,11 @@ I am a software engineer and final-year Computer Science student passionate abou
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,angular,nestjs,postgres,mongodb,typescript,javascript,docker,git,cpp,cs,dotnet,mysql,java&perline=16" />
 </a>
 
-<img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="48" height="48" align="top"/><img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" width="48" height="48" align="top"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" align="top"/>
+<table><tr>
+<td><img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="48" height="48"/></td>
+<td><img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/></td>
+</tr></table>
 
 ## 🔗 Contact
 - 📧 Email: [ilijaivanovic000@gmail.com](mailto:ilijaivanovic000@gmail.com)  
